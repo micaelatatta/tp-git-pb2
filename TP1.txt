@@ -1,0 +1,11 @@
+5) a) lo que sucedio cuando se hizo el push fue que se subieron las cosas al repositorio remoto.
+
+b) antes de realizar el push hay que hacer el commit y indicarle a la consola la direccion del repositorio remoto.
+
+C) para poder indicarle a la consola el directorio remoto se usa el comando git remote add origin.
+
+
+6) el parametro -b en un git checkout te permite la creacion de una nueva rama.
+
+
+9) 
